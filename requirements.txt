@@ -1,0 +1,13 @@
+apache-airflow==2.9.2
+pandas
+numpy
+sqlalchemy
+pymysql
+openpyxl
+apache-airflow-providers-mysql
+mlxtend
+matplotlib
+seaborn
+squarify
+fpdf
+requests
