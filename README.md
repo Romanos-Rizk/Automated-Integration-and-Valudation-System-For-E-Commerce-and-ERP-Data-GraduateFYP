@@ -1,5 +1,7 @@
 # Automated Integration and Validation System for E-Commerce and ERP Data at Malia Group
 
+- [Streamlit Application for Market Basket Analysis](https://aub-capstone-5jsd3cuxu7g7onxxkdswrp.streamlit.app/)
+
 ## Project Overview
 
 ### Abstract
